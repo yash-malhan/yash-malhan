@@ -1,6 +1,7 @@
-<!---
+
 # 👋 Hi, I’m Yash Malhan
 
+<!---
 - 👀 I’m interested in Business and Data Analytics roles
 - 🌱 I’m currently learning R 
 --->
